@@ -4,4 +4,27 @@
   display: -ms-flexbox;
   display: flex;
 }
+
+.assinatura .logo-box {
+  padding: 30px;
+}
+
+.assinatura .text-box h1 {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 27px;
+  /* identical to box height */
+  color: #092240;
+}
+
+.assinatura .text-box h4 {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 14px;
+  color: #565D65;
+}
 /*# sourceMappingURL=style.css.map */
